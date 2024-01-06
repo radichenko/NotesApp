@@ -17,6 +17,16 @@ The Notes App is a simple Android application developed using Kotlin. It allows 
 - **MVVM Architecture**: Follows the Model-View-ViewModel architectural pattern for better separation of concerns and maintainability.
 - **Android Navigation Component**: Used for navigating between different fragments within the app.
 
+## Screenshots
+
+Below are some screenshots showcasing the app's functionality:
+
+<div align="center">
+  <img src="/home_page.jpg" alt="Home Screen" width="200"/>
+  <img src="/edit_page.jpg" alt="Add Note Screen" width="200"/>
+  <img src="/search.jpg" alt="Edit Note Screen" width="200"/>
+</div>
+
 ## How to Use
 
 ### Installing the App on an Android Device
